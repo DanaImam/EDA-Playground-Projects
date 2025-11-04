@@ -5,6 +5,11 @@ This project implements a **Finite State Machine (FSM)** that checks whether a b
 The design is written in **SystemVerilog RTL**, and verified using a **structured testbench** 
 including Driver, Monitor, Sequencer, Reference Model, and Scoreboard.
 
+
+This folder contains example SystemVerilog/UVM files provided by my instructor for learning purposes.
+
+Note: These files are instructor-provided examples and not my own work.
+
 ---
 
 ## 🧠 Design Overview
